@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll',     '=0.11.0'
-gem 'liquid',     '=2.2.2'
+gem 'jekyll',     '4.3.2'
+gem 'liquid',     '4.0.4'
 gem 'RedCloth',   '=4.2.9'
